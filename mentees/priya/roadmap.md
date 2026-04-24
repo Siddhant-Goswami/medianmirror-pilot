@@ -11,7 +11,8 @@ milestones:
 - id: m1
   title: Ship v0 pipeline
   target_week: 4
-  status: not_started
+  status: completed
+  completed_at: '2026-04-24'
 drafted_at: '2026-04-24'
 revisions:
 - from_version: 1
