@@ -1,6 +1,6 @@
 ---
 mentee_id: priya
-status: draft
+status: active
 version: 1
 declared_position:
   background: 2y frontend, some Python
@@ -13,6 +13,7 @@ milestones:
   target_week: 4
   status: not_started
 drafted_at: '2026-04-24'
+approved_at: '2026-04-24'
 ---
 
 # Priya Roadmap
