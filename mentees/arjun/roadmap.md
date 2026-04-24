@@ -1,6 +1,6 @@
 ---
 mentee_id: arjun
-status: draft
+status: active
 version: 2
 declared_position:
   background: 3y backend, no ML
@@ -25,7 +25,7 @@ milestones:
   target_week: 8
   status: not_started
 drafted_at: '2026-04-24'
-approved_at: '2026-03-20'
+approved_at: '2026-04-24'
 ---
 
 # Arjun's AI Agents Roadmap
