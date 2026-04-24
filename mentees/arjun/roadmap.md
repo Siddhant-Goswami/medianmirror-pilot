@@ -1,7 +1,7 @@
 ---
 mentee_id: arjun
-status: awaiting_draft
-version: 0
+status: draft
+version: 1
 declared_position:
   background: 3y backend, no ML
   goal: ship an AI agent at work
@@ -9,12 +9,16 @@ declared_position:
 declared_at: '2026-04-24'
 milestones:
 - id: m1
-  title: Ship a working RAG chatbot
-  target_week: 4
+  title: Ship v0 chatbot
+  target_week: 2
   status: not_started
+drafted_at: '2026-04-24'
 ---
 
-# Arjun's Roadmap (sample)
+# Arjun Roadmap
 
-## Week 1–2: Foundations
-Start with [RAG basics](../../curriculum/concepts/retrieval-augmented-generation.md).
+## Week 1-2: Foundations
+RAG basics.
+
+## Week 3-4: Build
+Ship v0.
