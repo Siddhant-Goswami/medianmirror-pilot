@@ -1,7 +1,7 @@
 ---
 mentee_id: priya
-status: active
-version: 1
+status: draft
+version: 2
 declared_position:
   background: 2y frontend, some Python
   goal: ship a customer support agent
@@ -9,14 +9,17 @@ declared_position:
 declared_at: '2026-04-24'
 milestones:
 - id: m1
-  title: Ship v0 support bot
+  title: Ship v0 pipeline
   target_week: 4
   status: not_started
 drafted_at: '2026-04-24'
-approved_at: '2026-04-24'
+revisions:
+- from_version: 1
+  reason: mentee reassigned to data-pipeline team
+  revised_at: '2026-04-24'
 ---
 
-# Priya Roadmap
+# Priya Roadmap v2
 
 ## Week 1-2: Foundations
-Start with [RAG basics](../../curriculum/concepts/retrieval-augmented-generation.md).
+Focus on data-pipeline basics.
