@@ -1,6 +1,6 @@
 ---
 mentee_id: priya
-status: draft
+status: active
 version: 2
 declared_position:
   background: 2y frontend, some Python
@@ -17,6 +17,7 @@ revisions:
 - from_version: 1
   reason: mentee reassigned to data-pipeline team
   revised_at: '2026-04-24'
+approved_at: '2026-04-24'
 ---
 
 # Priya Roadmap v2
