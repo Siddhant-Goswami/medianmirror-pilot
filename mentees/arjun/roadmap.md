@@ -16,4 +16,4 @@ milestones:
 # Arjun's Roadmap (sample)
 
 ## Week 1–2: Foundations
-Start with [RAG basics](../../curriculum/concepts/rag-basics.md).
+Start with [RAG basics](../../curriculum/concepts/retrieval-augmented-generation.md).
